@@ -8,3 +8,6 @@ We present the implementation of a conditional generative adversarial network (c
 
 ![image](https://user-images.githubusercontent.com/120429971/217630713-b15419c3-d307-4c7e-85d6-3c93723577d1.png)
 
+![image](https://user-images.githubusercontent.com/120429971/217633286-be8b837a-8032-4f56-a45d-1e8c6403a765.png)
+
+![image](https://user-images.githubusercontent.com/120429971/217633328-ad41b0d0-08ea-4728-8427-f4080f73e2c6.png)
